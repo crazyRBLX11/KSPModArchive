@@ -1,7 +1,7 @@
 {
     "spec_version": "v1.34",
     "identifier": "Firefly",
-    "name": "S_Firefly",
+    "name": "Firefly",
     "abstract": "A mod for Kerbal Space Program that enhances reentry and aerodynamic effects.",
     "author": "MirageDev",
     "version": "1.0.5",
